@@ -8,7 +8,7 @@ export const Task01: React.FC = () => {
             <div className={styles.progress}>
                 <b>01</b> / 10
             </div>
-            <div className={styles.title}>Let's Start!</div>
+            <div className={styles.title}>Let&apos;s GO!</div>
             <ol start={0} className={styles.desc}>
                 <li>
                     In this tutorial, you'll learn how you can view and visually
